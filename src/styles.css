@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.form-frame {
+  max-width: 25rem;
+  margin: 0 auto;
+}
+
+.person-details,
+.person-details label,
+.person-details input {
+  display: block;
+  text-align: left;
+}
+.person-details input,
+.person-details select {
+  margin-bottom: 1rem;
+  width: 100%;
+}

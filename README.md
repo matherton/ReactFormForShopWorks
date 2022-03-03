@@ -1,2 +1,1 @@
-# ReactFormForShopWorks
-Created with CodeSandbox
+This single page app has been written for a coding challenge for Shop Works. This app displays a form with 2 questions taken from the mock config file and can be updated adding additional questions if there are added to the JSON config file.
